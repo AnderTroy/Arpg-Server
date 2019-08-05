@@ -8,9 +8,9 @@
 using PENet;
 using PEProtocol;
 using System.Collections.Generic;
-using System.Net;
 using System.Net.Sockets;
 using Server.System;
+using System.Net;
 
 namespace Server.Net
 {
